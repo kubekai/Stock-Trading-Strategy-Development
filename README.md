@@ -1,1 +1,1 @@
-# Stock-Trading-Strategy-Development
+# Stock Trading Strategy Development
