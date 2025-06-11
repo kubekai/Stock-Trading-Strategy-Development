@@ -103,3 +103,10 @@
 * **演算法**：選擇 A2C 作為主要訓練演算法。
 * **應用**：開發單一股票回測平台，允許使用者輸入資料進行回測。
 * **未來規劃**：擴展系統以支援多檔股票投組回測。
+
+# DEMO
+![選擇回測日期和相關參數](images/1.png)
+![回傳回測結果](images/2.png)
+![Portfolio Value](images/3.png)
+![Drawdown Curve](images/4.png)
+![Return Distribution Histogram](images/5.png)
