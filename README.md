@@ -105,8 +105,26 @@
 * **未來規劃**：擴展系統以支援多檔股票投組回測。
 
 # DEMO
+
+## 1. 選擇回測日期和相關參數  
 ![選擇回測日期和相關參數](images/1.png)
+
+---
+
+## 2. 回傳回測結果  
 ![回傳回測結果](images/2.png)
+
+---
+
+## 3. Portfolio Value  
 ![Portfolio Value](images/3.png)
+
+---
+
+## 4. Drawdown Curve  
 ![Drawdown Curve](images/4.png)
+
+---
+
+## 5. Return Distribution Histogram  
 ![Return Distribution Histogram](images/5.png)
